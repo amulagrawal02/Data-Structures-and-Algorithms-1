@@ -40,5 +40,6 @@ int main()
     vector<char> v;
 
     generate(s,v,0);
+    cout<<"your job had done";
     return 0;
 }
